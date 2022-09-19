@@ -1,4 +1,4 @@
-# DOCkER - Desafio - FullCyCle
+# DOCKER - Desafio - FullCyCle
 
 Objetivo do projeto foi utilizar a linguagem GO para criar uma imagem docker exibindo a mensagem ##Code.education Rocks!
 
